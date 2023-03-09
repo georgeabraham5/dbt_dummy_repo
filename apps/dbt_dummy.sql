@@ -1,0 +1,1 @@
+create or replace dbt_dummy_tbl (name varchar (20));
